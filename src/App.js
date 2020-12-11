@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+import React from 'react';
+>>>>>>> 0144088028639628a918d17824b09862ae45af5f
 import logo from './logo.svg';
 import './App.css';
 
